@@ -5,8 +5,8 @@ author baiyu
 import os
 from datetime import datetime
 
-CIFAR100 dataset path (python version)
-CIFAR100_PATH = '/root/data/cifar-100-python'
+# CIFAR100 dataset path (python version)
+# CIFAR100_PATH = '/root/data/cifar-100-python'
 
 #mean and std of cifar100 dataset
 CIFAR100_TRAIN_MEAN = (0.5070751592371323, 0.48654887331495095, 0.4409178433670343)
